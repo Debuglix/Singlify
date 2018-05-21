@@ -6,4 +6,4 @@ What this Script does:
 - Sets Track Number and Track Count to 1
 - Sets Disc Number and Disc Count to 1
 
-[?](http://f3x.li/ext-img/singlify.jpg)
+[![?](http://f3x.li/ext-img/singlify.jpg)](http://f3x.li/ext-img/singlify.jpg)
